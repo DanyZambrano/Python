@@ -1,9 +1,8 @@
 # Mientras la condicion es TRUE el While sigue iterando
 
-condicion = True
+condicion = False
 while condicion:
     print("Hola Mundo!")
-
 
 
 
@@ -20,6 +19,7 @@ while indice < len(listaString):
 
 
 
+
 listaString = ["mensaje 1", "mensaje 2", "mensaje 3", "mensaje 4"]
 indice = 0
 
@@ -28,3 +28,4 @@ while indice < len(listaString):
     indice += 1
 else:
     print("While finalizado!")
+
