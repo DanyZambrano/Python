@@ -1,5 +1,6 @@
 >>> from operaciones import sumatoria
 
+
 >>> sumatoria(2, 2, 1)
 5
 

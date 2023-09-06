@@ -1,6 +1,5 @@
 
 
-
 def sumatoria(valorA, valorB, valorC):
 
     '''

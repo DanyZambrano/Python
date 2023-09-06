@@ -10,16 +10,6 @@ def sumatoria(valorA, valorB, valorC):
 
         Ejemplo:
             sumatoria(8, 2, 6)
-
-        >>> sumatoria(2, 2, 1)
-        5
-
-        >>> sumatoria(1, 2, 3)
-        6
-
-        >>> sumatoria(1, 1, 1)
-        3
-
     '''
     suma = valorA + valorB + valorC
     print(suma)
